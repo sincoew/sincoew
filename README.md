@@ -3,3 +3,6 @@
 # Empathy Tech
 
 > https://empathytech.net
+
+# Network communication devices and file tracking methods
+https://patents.google.com/patent/US20140237024A1/en

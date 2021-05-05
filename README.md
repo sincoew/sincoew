@@ -1,4 +1,5 @@
-<a href="https://empathytech.net"><img src="https://cloud.empathytech.net/index.php/s/Z8Kig2sgLZYHYED/preview" width="200" height="200" title="Empathy Tech" alt="empathy"></a>
+<a href="https://empathytech.net">
+<img src="https://cloud.empathytech.net/index.php/s/MpdL2TYQMbxqAfq/preview" width="200" height="200" title="Empathy Tech" alt="empathy"></a>
 
 # Empathy Tech
 
